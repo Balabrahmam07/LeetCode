@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Balabrahmam07/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Balabrahmam07/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Balabrahmam07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Balabrahmam07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Balabrahmam07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balabrahmam07/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Balabrahmam07/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
