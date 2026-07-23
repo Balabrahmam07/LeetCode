@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Balabrahmam07/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Balabrahmam07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 ## Stack
@@ -55,11 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Balabrahmam07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balabrahmam07/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
