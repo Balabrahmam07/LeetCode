@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Balabrahmam07/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Balabrahmam07/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Balabrahmam07/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Balabrahmam07/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Balabrahmam07/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Balabrahmam07/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Balabrahmam07/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
