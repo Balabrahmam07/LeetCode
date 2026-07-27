@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Balabrahmam07/LeetCode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/Balabrahmam07/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Balabrahmam07/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Balabrahmam07/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
