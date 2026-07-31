@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Balabrahmam07/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Balabrahmam07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Balabrahmam07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
