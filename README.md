@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Balabrahmam07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Balabrahmam07/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Balabrahmam07/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Balabrahmam07/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Balabrahmam07/LeetCode/tree/master/1122-relative-sort-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Balabrahmam07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Balabrahmam07/LeetCode/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Game Theory
 |  |
 | ------- |
