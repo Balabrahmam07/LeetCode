@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Balabrahmam07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Balabrahmam07/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Balabrahmam07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Balabrahmam07/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Balabrahmam07/LeetCode/tree/master/0877-stone-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Balabrahmam07/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Balabrahmam07/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Balabrahmam07/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Balabrahmam07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Balabrahmam07/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Balabrahmam07/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Balabrahmam07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Balabrahmam07/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Balabrahmam07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Balabrahmam07/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabrahmam07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -177,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Balabrahmam07/LeetCode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Balabrahmam07/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Balabrahmam07/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Balabrahmam07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
