@@ -5,20 +5,17 @@ class Solution:
         count = 0
 
         for i in range(k):
-            if s[i] in vowels:
-                count += 1
+            count += s[i] in vowels
         
         max_count = count
 
         for right in range(k, len(s)):
 
-            if s[right] in vowels:
-                count += 1
+            count += s[right] in vowels
             
             left = right - k
 
-            if s[left] in vowels:
-                count -= 1
+            count -= s[left] in vowels
             
             max_count = max(max_count, count)
             
