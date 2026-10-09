@@ -3,14 +3,22 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count = [0,0,0]
+        count_0 = 0
+        count_1 = 0
+        count_2 = 0
         for num in nums:
-            count[num] += 1
-        i = 0
-        for color in range(3):
-            for j in range(count[color]):
-                nums[i] = color
-                i += 1
-        return nums
+            if num == 0:
+                count_0 += 1
+            elif num == 1:
+                count_1 += 1
+            else:
+                count_2 += 1
 
+        for i in range(count_0):
+            nums[i] = 0
+        for j in range(count_0, count_0 + count_1):
+            nums[j] = 1
+        for k in range(count_0 + count_1, len(nums)):
+            nums[k] = 2
+        return nums
         
