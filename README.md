@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Balabrahmam07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Balabrahmam07/LeetCode/tree/master/0877-stone-game) |
+| [1220-count-vowels-permutation](https://github.com/Balabrahmam07/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Game Theory
 |  |
