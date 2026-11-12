@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Balabrahmam07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Balabrahmam07/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Balabrahmam07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3693-climbing-stairs-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Balabrahmam07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Balabrahmam07/LeetCode/tree/master/0877-stone-game) |
 | [1220-count-vowels-permutation](https://github.com/Balabrahmam07/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Balabrahmam07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Balabrahmam07/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
